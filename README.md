@@ -2,8 +2,8 @@
 42 🟩🟩🟩🟩🟥  README.md 
 –--------------------------------------------------------------
 - Work stuff only
-+ Click the eye below for the fun stuff ⬇️
++ You might want to see this instead: ⬇️
 ```
 <pre>
-<a href="https://github.com/masnormen">👉 👁️ 👈</a>
+<b><a href="https://github.com/masnormen">my other account</a></b>
 </pre>
